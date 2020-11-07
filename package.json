@@ -1,0 +1,14 @@
+{
+  "name": "illusx-trees",
+  "version": "1.0.0",
+  "description": "Counts number of tress planted by Illustrationx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "trees"
+  ],
+  "author": "David Mold",
+  "license": "ISC"
+}
