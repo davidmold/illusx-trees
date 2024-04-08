@@ -3,7 +3,6 @@ const treesPerHour = 18.7733
 
 module.exports = {
   countTrees: function () {
-    console.log('trees v1.1')
     let timenow = new Date().getTime();
     let timeknown = new Date(2024, 3, 8).getTime()
     
